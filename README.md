@@ -1,6 +1,4 @@
-# -Tutor-Me-AI_1
-# Tutor Me AI — Web App (hardened build)
-
+# -Tutor-Me-AI
 An AI-powered study dashboard: Ask AI, Assignment Solver, MCQ Generator,
 Question Paper Generator, Content Explainer, PDF/Notes Summarizer, Career
 Roadmap, Book Recommendations, personal Notes, and per-user History — all
